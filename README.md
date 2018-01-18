@@ -21,3 +21,9 @@
     python classify_image.py --image_file 5918348-image.jpg
     
 Runs in < 14s First Time!
+
+##### ERROR
+
+Disable Error Messages: 
+
+    export TF_CPP_MIN_LOG_LEVEL=2
