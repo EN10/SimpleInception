@@ -2,6 +2,7 @@
 
 * Based on Google's [Image Recognition](https://www.tensorflow.org/tutorials/image_recognition) Tutorial  
 * Detailed Example: [KerasInception](https://github.com/EN10/KerasInception)
+* [Node.js API](https://github.com/EN10/InceptionAPI)
 
 #### Get Program:   
 
