@@ -20,4 +20,4 @@
 
     python classify_image.py --image_file 5918348-image.jpg
     
-Runs in < 14s
+Runs in < 14s First Time!
