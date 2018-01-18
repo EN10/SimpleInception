@@ -1,6 +1,7 @@
 # Quick and Simple Image Recognition with Inception v3
 
 Based on Google's [Image Recognition](https://www.tensorflow.org/tutorials/image_recognition) Tutorial
+More Detail [KerasInception](https://github.com/EN10/KerasInception)
 
 #### Get Program:   
 
