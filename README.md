@@ -1,4 +1,4 @@
-# Simple Image Recognition with Inception v3
+# Quick and Simple Image Recognition with Inception v3
 
 Based on Google's [Image Recognition](https://www.tensorflow.org/tutorials/image_recognition) Tutorial
 
