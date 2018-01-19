@@ -4,6 +4,11 @@
 * Detailed Example: [KerasInception](https://github.com/EN10/KerasInception)
 * [Node.js API](https://github.com/EN10/InceptionAPI)
 
+### Fast Version
+
+    git clone https://github.com/EN10/SimpleInception.git
+    bash fast.sh
+
 #### Get Program:   
 
     wget https://raw.githubusercontent.com/tensorflow/models/master/tutorials/image/imagenet/classify_image.py
