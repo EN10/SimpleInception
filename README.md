@@ -2,15 +2,15 @@
 
 * Based on Google's [Image Recognition](https://www.tensorflow.org/tutorials/image_recognition) Tutorial  
 * Detailed Example: [KerasInception](https://github.com/EN10/KerasInception)
-* [Node.js API](https://github.com/EN10/InceptionAPI)
+* A Web based [Node.js API](https://github.com/EN10/InceptionAPI)
 
 ## Fast c9 Version
 
-Create workspace then clone from git:
+"+ Create a new workspace" then "Clone from Git URL":
 
     https://github.com/EN10/SimpleInception.git
 
-then in terminal:
+then "New Terminal":
 
     bash install.sh
 
