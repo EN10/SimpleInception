@@ -4,10 +4,15 @@
 * Detailed Example: [KerasInception](https://github.com/EN10/KerasInception)
 * [Node.js API](https://github.com/EN10/InceptionAPI)
 
-### Fast Version
+### Fast c9 Version
 
-    git clone https://github.com/EN10/SimpleInception.git
-    bash fast.sh
+Create workspace then clone from git:
+
+    https://github.com/EN10/SimpleInception.git
+
+then in terminal:
+
+    bash install.sh
 
 #### Get Program:   
 
