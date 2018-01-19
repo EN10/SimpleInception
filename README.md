@@ -4,7 +4,7 @@
 * Detailed Example: [KerasInception](https://github.com/EN10/KerasInception)
 * [Node.js API](https://github.com/EN10/InceptionAPI)
 
-### Fast c9 Version
+## Fast c9 Version
 
 Create workspace then clone from git:
 
@@ -13,6 +13,8 @@ Create workspace then clone from git:
 then in terminal:
 
     bash install.sh
+
+## Individual Steps:
 
 #### Get Program:   
 
