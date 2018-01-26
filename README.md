@@ -3,6 +3,7 @@
 * Based on Google's [Image Recognition](https://www.tensorflow.org/tutorials/image_recognition) Tutorial  
 * Detailed Example: [KerasInception](https://github.com/EN10/KerasInception)
 * A Web based [Node.js API](https://github.com/EN10/InceptionAPI)
+* Python Example on [Heroku](https://github.com/EN10/InceptionHeroku)
 
 ## Fast c9 Version
 
