@@ -5,8 +5,9 @@
 * A Web based [Node.js API](https://github.com/EN10/InceptionAPI)
 * Python Example on [Heroku](https://github.com/EN10/InceptionHeroku)
 
-## Fast c9 Version
+## Fast Cloud9 Version
 
+"Go To Your Dashboard"  
 Click: "+ Create a new workspace"   
 Give a "Workspace name" e.g. `inception`     
 "Clone from Git URL":   
