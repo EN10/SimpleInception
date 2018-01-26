@@ -13,9 +13,10 @@ Give a "Workspace name" e.g. `inception`
 
     https://github.com/EN10/SimpleInception.git
 
-"Choose a template": `Blank`
+"Choose a template": `Blank`    
+Click "Create workspace"
 
-then "New Terminal" type:
+then "+ New Terminal" type:
 
     bash install.sh
 
