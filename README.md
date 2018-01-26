@@ -7,11 +7,15 @@
 
 ## Fast c9 Version
 
-"+ Create a new workspace" then "Clone from Git URL":
+Click: "+ Create a new workspace"   
+Give a "Workspace name" e.g. `inception`     
+"Clone from Git URL":   
 
     https://github.com/EN10/SimpleInception.git
 
-then "New Terminal":
+"Choose a template": `Blank`
+
+then "New Terminal" type:
 
     bash install.sh
 
