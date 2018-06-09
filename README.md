@@ -15,7 +15,7 @@ Give a "Workspace name" e.g. `inception`
     https://github.com/EN10/SimpleInception.git
 
 "Choose a template": `Blank`    
-Click "Create workspace"
+Click "Create workspace"    (~35s)
 
 then "+ New Terminal" type:
 
