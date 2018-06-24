@@ -21,12 +21,20 @@ then "+ New Terminal" type:
 
     bash install.sh
 
+## General Fast Git
+
+In a Terminal:  
+
+    git clone https://github.com/EN10/SimpleInception.git
+    bash install.sh
+
 ## Individual Steps:
 
 #### Get Program:   
 
     wget https://raw.githubusercontent.com/tensorflow/models/master/tutorials/image/imagenet/classify_image.py
     
+[Updated 10/12/16](https://github.com/tensorflow/models/blob/master/tutorials/image/imagenet/classify_image.py)
 #### Get Image:
 
     wget http://saxony-blue.com/data/out/86/5918348-image.jpg
