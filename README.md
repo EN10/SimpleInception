@@ -26,6 +26,7 @@ then "+ New Terminal" type:
 In a Terminal:  
 
     git clone https://github.com/EN10/SimpleInception.git
+    cd SimpleInception
     bash install.sh
 
 ## Individual Steps:
