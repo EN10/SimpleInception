@@ -4,6 +4,7 @@
 * Detailed Example: [KerasInception](https://github.com/EN10/KerasInception)
 * A Web based [Node.js API](https://github.com/EN10/InceptionAPI)
 * Python Example on [Heroku](https://github.com/EN10/InceptionHeroku)
+* Class Labels [ImageNet](http://web.archive.org/web/20130405004914/http://image-net.org:80/challenges/LSVRC/2012/browse-synsets)
 
 ## General Fast Git
 
