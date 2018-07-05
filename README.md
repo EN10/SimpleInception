@@ -47,7 +47,7 @@ In a Terminal:
 
 #### Run Prediction:
 
-    python classify_image.py --image_file 5918348-image.jpg
+    sudo python classify_image.py --image_file 5918348-image.jpg
     
 Runs in < 14s First Time!
 
