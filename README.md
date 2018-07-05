@@ -5,6 +5,14 @@
 * A Web based [Node.js API](https://github.com/EN10/InceptionAPI)
 * Python Example on [Heroku](https://github.com/EN10/InceptionHeroku)
 
+## General Fast Git
+
+In a Terminal:  
+
+    git clone https://github.com/EN10/SimpleInception.git
+    cd SimpleInception
+    bash install.sh
+
 ## Fast Cloud9 Version
 
 "Go To Your Dashboard"  
@@ -19,14 +27,6 @@ Click "Create workspace"    (~35s)
 
 then "+ New Terminal" type:
 
-    bash install.sh
-
-## General Fast Git
-
-In a Terminal:  
-
-    git clone https://github.com/EN10/SimpleInception.git
-    cd SimpleInception
     bash install.sh
 
 ## Individual Steps:
