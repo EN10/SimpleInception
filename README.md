@@ -1,6 +1,6 @@
 # Quick and Simple Image Recognition with Inception v3
 
-* Based on Google's [Image Recognition](https://www.tensorflow.org/tutorials/image_recognition) Tutorial  
+* Based on Google's [Image Recognition](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/images/_image_recognition.md) Tutorial  
 * Detailed Example: [KerasInception](https://github.com/EN10/KerasInception)
 * A Web based [Node.js API](https://github.com/EN10/InceptionAPI)
 * Python Example on [Heroku](https://github.com/EN10/InceptionHeroku)
