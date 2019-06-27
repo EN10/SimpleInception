@@ -14,6 +14,14 @@ In a Terminal:
     cd SimpleInception
     bash install.sh
 
+## Colab Version
+
+    !wget https://raw.githubusercontent.com/tensorflow/models/master/tutorials/image/imagenet/classify_image.py
+    
+    !wget https://github.com/EN10/SimpleInception/blob/master/5918348-image.jpg
+    
+    !python classify_image.py --image_file 5918348-image.jpg
+
 ## Fast Cloud9 Version
 
 "Go To Your Dashboard"  
@@ -39,7 +47,7 @@ then "+ New Terminal" type:
 [Updated 10/12/16](https://github.com/tensorflow/models/blob/master/tutorials/image/imagenet/classify_image.py)
 #### Get Image:
 
-    wget http://saxony-blue.com/data/out/86/5918348-image.jpg
+    wget https://github.com/EN10/SimpleInception/blob/master/5918348-image.jpg
     
 #### Install Tensorflow:
 
